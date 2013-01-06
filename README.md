@@ -12,4 +12,4 @@ bundle install
 bundel exec ruby app.rb
 ```
 
-然后在浏览器里打开 http://localhost:4567
+然后访问 [http://localhost:4567](http://localhost:4567)，并设法确保你的机器能访问中文维基。
