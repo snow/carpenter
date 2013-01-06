@@ -5,9 +5,11 @@ Carpenter
 
 Usage
 -----
-  git clone https://github.com/snow/carpenter.git
-  cd carpenter
-  bundle install
-  bundel exec ruby app.rb
+```shell 
+git clone https://github.com/snow/carpenter.git
+cd carpenter
+bundle install
+bundel exec ruby app.rb
+```
 
 然后在浏览器里打开 http://localhost:4567
